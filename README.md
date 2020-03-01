@@ -1,7 +1,7 @@
 # Tubes_DAP
 <h4>[English]</h4>
 
-This program was for my school project in subject Basic Algorithm and Programming.</br>
+This program was for my school project in courses Basic Algorithm and Programming.</br>
 This algorithm is written in Go Language.</br>
 If you want to check it kindly clone download it or use</br>
 ` $ git clone https://github.com/kaenova/Tubes_DAP.git `</br>
