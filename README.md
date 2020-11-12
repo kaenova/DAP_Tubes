@@ -10,7 +10,7 @@ Informatics Engineering, Telkom University, Indonesia<br>
 
 ## [English]
 
-This program is written in Go Language. This program is formed by giving problems where several needs must be met. We were given the theme of Activity Scheduling. Several specifications must be met, such as:
+This program is written in Go Language. This program is formed by giving problems where several needs must be met. I was given the theme of Activity Scheduling. Several specifications must be met, such as:
 
   
 ```
@@ -49,7 +49,7 @@ We also provide files in the executable form in Release. Only to be run in the c
 
 ## [Bahasa Indonesia]
 
-Program ini dibuat di dalam bahasa Go Language. Program ini dibentuk dengan diberikannya masalah yang dimana ada beberapa kebutuhan yang harus dipenuhi. Kami diberikan tema Penjadwalan Kegiatan. Ada beberapa spesifikasi yang harus dipenuhi, seperti:
+Program ini dibuat di dalam bahasa Go Language. Program ini dibentuk dengan diberikannya masalah yang dimana ada beberapa kebutuhan yang harus dipenuhi. Saya diberikan tema Penjadwalan Kegiatan. Ada beberapa spesifikasi yang harus dipenuhi, seperti:
 
   
 ```
@@ -82,4 +82,3 @@ Program ini dibuat di dalam bahasa Go Language. Program ini dibentuk dengan dibe
 ```
   
 Untuk mencoba silkahkan untuk dan membuild file "Ver1.0.go"<br>
-Kami juga menyediakan file dalam bentuk executeable di Release. Hanya untuk dijalankan di dalam command line
