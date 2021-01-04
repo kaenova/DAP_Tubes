@@ -80,5 +80,6 @@ Program ini dibuat di dalam bahasa Go Language. Program ini dibentuk dengan dibe
 	2.6. Menampilkan jumlah dan data jadwal yang sudah dilalui, yaitu jadwal yang waktu selesainya < waktu saat ini, secara terurut berdasarkan waktu selesai.
 
 ```
-  
-Untuk mencoba silkahkan untuk dan membuild file "Ver1.0.go"<br>
+
+
+<img  align= "right" src="https://cdn.discordapp.com/attachments/527433841690804224/791558706508726292/Pre-comp-3.gif"  width="200">
